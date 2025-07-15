@@ -93,6 +93,4 @@ Access the app at `http://localhost:3000`.
 
 This project includes a sample GitHub Actions workflow `deploy.yml` (in `.github/workflows/`) to automate builds and test deployments. You can customize this for CI/CD pipelines.
 
----
 
-> This project is built entirely by Maaz Ansari as a demonstration of full-stack MERN development with secure practices and clean code architecture.
