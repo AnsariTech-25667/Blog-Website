@@ -1,6 +1,6 @@
 # Full-Stack Blog App using MERN with Secure Auth & Media Upload
 
-This is a full-stack blogging platform developed by **Maaz Ansari**, featuring secure user authentication, media upload support, and a dynamic frontend interface. Built using the powerful MERN stack — MongoDB, Express, React, and Node.js — the project demonstrates modern web development practices including API handling, JWT-based security, image upload with Multer, and modular backend architecture.
+This is a full-stack blogging platform developed by **Maaz Ansari**, featuring secure user authentication, media upload support, and a dynamic frontend interface. Built using the powerful MERN stack, MongoDB, Express, React, and Node.js, the project demonstrates modern web development practices including API handling, JWT-based security, image upload with Multer, and modular backend architecture.
 
 ## 🔧 Tech Stack & Why It Was Used
 
