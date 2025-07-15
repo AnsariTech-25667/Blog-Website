@@ -2,7 +2,6 @@
 
 This is a full-stack blogging platform developed by **Maaz Ansari**, featuring secure user authentication, media upload support, and a dynamic frontend interface. Built using the powerful MERN stack — MongoDB, Express, React, and Node.js — the project demonstrates modern web development practices including API handling, JWT-based security, image upload with Multer, and modular backend architecture.
 
-![App Preview](https://raw.githubusercontent.com/AnsariTech-25667/Blog-Website/main/preview.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/AnsariTech-25667/Blog-Website/deploy.yml)](https://github.com/AnsariTech-25667/Blog-Website/actions)
